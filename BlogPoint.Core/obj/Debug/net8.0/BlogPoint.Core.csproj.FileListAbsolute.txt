@@ -1,0 +1,11 @@
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Core/bin/Debug/net8.0/BlogPoint.Core.deps.json
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Core/bin/Debug/net8.0/BlogPoint.Core.dll
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Core/bin/Debug/net8.0/BlogPoint.Core.pdb
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Core/obj/Debug/net8.0/BlogPoint.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Core/obj/Debug/net8.0/BlogPoint.Core.AssemblyInfoInputs.cache
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Core/obj/Debug/net8.0/BlogPoint.Core.AssemblyInfo.cs
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Core/obj/Debug/net8.0/BlogPoint.Core.csproj.CoreCompileInputs.cache
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Core/obj/Debug/net8.0/BlogPoint.Core.dll
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Core/obj/Debug/net8.0/refint/BlogPoint.Core.dll
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Core/obj/Debug/net8.0/BlogPoint.Core.pdb
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Core/obj/Debug/net8.0/ref/BlogPoint.Core.dll

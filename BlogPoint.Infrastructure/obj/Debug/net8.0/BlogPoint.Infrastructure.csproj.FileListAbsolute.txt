@@ -1,0 +1,17 @@
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Infrastructure/bin/Debug/net8.0/BlogPoint.Infrastructure.deps.json
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Infrastructure/bin/Debug/net8.0/BlogPoint.Infrastructure.runtimeconfig.json
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Infrastructure/bin/Debug/net8.0/BlogPoint.Infrastructure.dll
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Infrastructure/bin/Debug/net8.0/BlogPoint.Infrastructure.pdb
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Infrastructure/bin/Debug/net8.0/BlogPoint.Core.dll
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Infrastructure/bin/Debug/net8.0/BlogPoint.Core.pdb
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Infrastructure/obj/Debug/net8.0/BlogPoint.Infrastructure.csproj.AssemblyReference.cache
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Infrastructure/obj/Debug/net8.0/BlogPoint.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Infrastructure/obj/Debug/net8.0/BlogPoint.Infrastructure.AssemblyInfoInputs.cache
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Infrastructure/obj/Debug/net8.0/BlogPoint.Infrastructure.AssemblyInfo.cs
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Infrastructure/obj/Debug/net8.0/BlogPoint.Infrastructure.csproj.CoreCompileInputs.cache
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Infrastructure/obj/Debug/net8.0/BlogPoint.Infrastructure.csproj.CopyComplete
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Infrastructure/obj/Debug/net8.0/BlogPoint.Infrastructure.dll
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Infrastructure/obj/Debug/net8.0/refint/BlogPoint.Infrastructure.dll
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Infrastructure/obj/Debug/net8.0/BlogPoint.Infrastructure.pdb
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Infrastructure/obj/Debug/net8.0/BlogPoint.Infrastructure.genruntimeconfig.cache
+/home/Goosa/Desktop/BlogPoint/BlogPoint.Infrastructure/obj/Debug/net8.0/ref/BlogPoint.Infrastructure.dll

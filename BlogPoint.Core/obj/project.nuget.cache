@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RZ56gPKumLBSc4tXLlC3mUyqI4WbR52oXXLwyP1G0gvpjUkFP6g21csi1Lj55GESfZUl8UfZEJGNrGS6+cjGyw==",
+  "success": true,
+  "projectFilePath": "/home/Goosa/Desktop/BlogPoint/BlogPoint.Core/BlogPoint.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/Goosa/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
